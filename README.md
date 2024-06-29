@@ -36,7 +36,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/omgupta7352/Unsplash-clone.git
+    git clone https://github.com/omgupta7352/Unsplash_Clone.git
     ```
 
 2. Navigate to the project directory:
