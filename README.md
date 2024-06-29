@@ -44,7 +44,7 @@ To run this project locally, follow these steps:
 2. Navigate to the project directory:
 
     ```bash
-    cd unsplash_clone
+    cd Unsplash_Clone
     ```
 
 3. Open `index.html` in your preferred web browser.
