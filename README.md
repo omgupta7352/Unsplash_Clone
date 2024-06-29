@@ -21,7 +21,7 @@ The Unsplash Clone project is a web-based application that mimics the functional
 
 ## Demo
 
-You can try out the Unsplash clone live [here](https://omgupta7352.github.io/Unsplash-clone/).
+You can try out the Unsplash clone live [here](https://omgupta7352.github.io/Unsplash_Clone/).
 
 ## Technologies Used
 
