@@ -1,4 +1,6 @@
 # Unsplash Clone
+![Unsplash Clone](unsplash1.png)
+![](unsplash2.png)
 
 The Unsplash Clone project is a web-based application that mimics the functionality of the popular photo-sharing platform Unsplash. This project is built using HTML, CSS, and JavaScript.
 
